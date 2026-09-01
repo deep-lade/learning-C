@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1786734476 source:c:\users\deep\downloads\browser\firstyear101\first_c_program\main.c
+	<stdio.h>
+	<stdlib.h>
+
